@@ -55,3 +55,48 @@
 >**Author:** *Dalai Lama*<br>
 >“Being deeply loved by someone gives you strength while loving someone deeply gives you courage.” 
 >**Author:** *Lao Tzu*
+
+-----
+
+# create a new section about code fencing
+>Unlike tree traversal, graph traversal may require that some vertices be visited more than once, since it is not necessarily known before transitioning to a vertex that it has already been explored. As graphs become more dense, this redundancy becomes more prevalent, causing computation time to increase; as graphs become more sparse, the opposite holds true.
+
+Thus, it is usually necessary to remember which vertices have already been explored by the algorithm, so that vertices are revisited as infrequently as possible (or in the worst case, to prevent the traversal from continuing indefinitely). This may be accomplished by associating each vertex of the graph with a "color" or "visitation" state during the traversal, which is then checked and updated as the algorithm visits each vertex. If the vertex has already been visited, it is ignored and the path is pursued no further; otherwise, the algorithm checks/updates the vertex and continues down its current path. <https://en.wikipedia.org/wiki/Graph_traversal>
+```
+vector<vector<int>> adj;  // adjacency list representation
+int n; // number of nodes
+int s; // source vertex
+
+queue<int> q;
+vector<bool> used(n);
+vector<int> d(n), p(n);
+
+q.push(s);
+used[s] = true;
+p[s] = -1;
+while (!q.empty()) {
+    int v = q.front();
+    q.pop();
+    for (int u : adj[v]) {
+        if (!used[u]) {
+            used[u] = true;
+            q.push(u);
+            d[u] = d[v] + 1;
+            p[u] = v;
+        }
+    }
+}
+
+if (!used[u]) {
+    cout << "No path!";
+} else {
+    vector<int> path;
+    for (int v = u; v != -1; v = p[v])
+        path.push_back(v);
+    reverse(path.begin(), path.end());
+    cout << "Path: ";
+    for (int v : path)
+        cout << v << " ";
+}
+```
+link to the code<https://cp-algorithms.com/graph/breadth-first-search.html>
