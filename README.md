@@ -23,16 +23,17 @@
     5. Villupuram to Trichy
     6. Trichy to Kanyakumari
     7. Kanyakumari to Ooty Tamil Nadu, India
- * Places in Ooty
-    * Ooty Lake
-    * Wenlock Downs
-    * Kamraj Sagar Dam
-    * Pykara Falls
-    * Pine Tree Forest
-        * towering pine trees
-        * privacy to honeymooners
-    * Ooty Botanical Garden
-        * colourful Nilgiri birds
+ * Items to carry for  Ooty
+    * Wallet
+    * cards
+    * DSLR camera
+    * Hoddie
+    * clothes
+        * woolen shirts
+        * jacket
+        * caps
+    * shoes
+    * food packets
 
 **[LinktoAboutMe.md](AboutMe.md)**
 
