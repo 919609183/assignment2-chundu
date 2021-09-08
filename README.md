@@ -33,5 +33,19 @@
         * privacy to honeymooners
     * Ooty Botanical Garden
         * colourful Nilgiri birds
-        
+
 **[LinktoAboutMe.md](AboutMe.md)**
+
+------
+# Heading for the  creating a Table foods and drinks
+
+**Introduction:**
+ The following is to create a table with atleast 4 food/drinks that you would recommend someone try. Include a short paragraph that introduces the table.
+
+|Mandatory   |fav1            |fav2             |fav3             |fav4            |
+|:--------:  |:---------:     |:---------:      |:----------:     |:----------:    |
+|Food        |biryani         |parota           |mutton           |manshion house  |
+|Location    |guntur          |pedakurapadu     |Home             |station         |
+|Amount      |300             |60               |700              |1200            |
+
+-----
