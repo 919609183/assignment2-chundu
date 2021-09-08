@@ -9,18 +9,27 @@
  Ooty is a year-round destination, but the ideal time to visit is between the months of April to June and September to November and July to September.
 
  ## Heading for access to reach in order list and unorder list
- 1. marryville
+ 1. Start from marryville
  2. Kansas City Airport
     1. chicago Airport
     2. Abu Dhabi
     3. delhi
     4. chennai tamil nadu
-3. ooty
- * Road trip
-    * Chennai to Ooty
-    * Continue to Sastri Nagar
-    *  Sastri Nagar to Villupuram
-    * Villupuram to Trichy
-    * Trichy to Kanyakumari
-    * Kanyakumari to Ooty Tamil Nadu, India
- * destiation arrived
+3. route map for ooty
+ 1. Road trip
+    2. Chennai to Ooty
+    3. Continue to Sastri Nagar
+    4. Sastri Nagar to Villupuram
+    5. Villupuram to Trichy
+    6. Trichy to Kanyakumari
+    7. Kanyakumari to Ooty Tamil Nadu, India
+ * Places in Ooty
+    * Ooty Lake
+    * Wenlock Downs
+    * Kamraj Sagar Dam
+    * Pykara Falls
+    * Pine Tree Forest
+        * towering pine trees
+        * privacy to honeymooners
+    * Ooty Botanical Garden
+        * colourful Nilgiri birds
