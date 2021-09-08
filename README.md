@@ -17,9 +17,10 @@
     4. chennai tamil nadu
 3. ooty
  * Road trip
- * Chennai to Ooty
- * Continue to Sastri Nagar
- *  Villupuram
- * Trichy
- * Kanyakumari
- * Ooty Tamil Nadu, India
+    * Chennai to Ooty
+    * Continue to Sastri Nagar
+    *  Sastri Nagar to Villupuram
+    * Villupuram to Trichy
+    * Trichy to Kanyakumari
+    * Kanyakumari to Ooty Tamil Nadu, India
+ * destiation arrived
