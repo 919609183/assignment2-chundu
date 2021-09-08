@@ -49,3 +49,9 @@
 |Amount      |300             |60               |700              |1200            |
 
 -----
+
+# Section of Quotes
+>“Calm mind brings inner strength and self-confidence, so that’s very important for good health.” 
+>**Author:** *Dalai Lama*<br>
+>“Being deeply loved by someone gives you strength while loving someone deeply gives you courage.” 
+>**Author:** *Lao Tzu*
