@@ -25,7 +25,7 @@
     7. Kanyakumari to Ooty Tamil Nadu, India
  * Items to carry for  Ooty
     * Wallet
-    * cards
+    * cards and adress proof's
     * DSLR camera
     * Hoddie
     * clothes
