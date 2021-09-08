@@ -6,7 +6,7 @@
 
  -----
 
- Ooty is a year-round destination, but the ideal time to visit is between the months of April to June and September to November. ... July to September
+ Ooty is a year-round destination, but the ideal time to visit is between the months of April to June and September to November and July to September.
 
  ## TRAVELLING
 1. Pack all useful things for travelling
@@ -17,4 +17,11 @@
 2. start from marryvile
 3. travel towards  Gateway Arch
 4. Gateway Arch is in st.louis
-    4. 1.  
+    4. 1.  Continue to Jefferson Township. Take the I-29 S/US-71 S exit from US-71 S
+    4. 2. Follow I-29 S, I-70 E and I-64 E to S 6th St in St. Louis. Take exit 40 from I-64 E
+    4. 3. Take Chouteau Ave to S Leonor K Sullivan Blvd.
+        4. 3. 1. Continue straight onto S 6th St (signs for America's Center/Gateway Arch/Lumière Pl
+        4. 3. 2. Turn left onto Chouteau Ave
+        4. 3. 3. Continue straight to stay on Chouteau Ave
+        4. 3. 4. Turn left onto S Leonor K Sullivan Blvd
+5. The Gateway Arch arives.
